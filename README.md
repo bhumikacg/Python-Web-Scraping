@@ -1,11 +1,11 @@
 # Python Projects
 
 **A)Python Basics** 
--  The project implements the Basics of Python like data structures and functions.
--•	Developed a Python project showcasing the implementation of core programming concepts such as data structures (lists, dictionaries, tuples) and user-defined functions.
--•	Applied control flow, loops, and conditional statements to solve simple tasks and automate repetitive operations.
--•	Demonstrated hands-on understanding of Python syntax, coding best practices, and modular code design.
--•	Built a strong foundation for writing efficient, readable, and reusable Python code.
+
+-	Developed a Python project showcasing the implementation of core programming concepts such as data structures (lists, dictionaries, tuples) and user-defined functions.
+- Applied control flow, loops, and conditional statements to solve simple tasks and automate repetitive operations.
+- Demonstrated hands-on understanding of Python syntax.
+
 
 
 **B)Python Web Scraping Project** 
